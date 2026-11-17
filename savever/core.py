@@ -11,11 +11,6 @@ class Schema:
     fields: dict
 
 
-def Schema:
-    """class"""
-    raise NotImplementedError("Schema 尚未实现")
-
-
 def load_save(path):
     """读存档"""
     raise NotImplementedError("load_save 尚未实现")
