@@ -1,0 +1,9 @@
+{
+  "difficulty": "normal",
+  "gold": 10,
+  "hp": 100,
+  "inventory": [],
+  "legacy_flag": true,
+  "mana": 30,
+  "version": 3
+}
