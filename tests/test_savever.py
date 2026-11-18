@@ -21,6 +21,7 @@ def test_idempotent():
 
 
 # ===== v2 契约测试：初始全部失败，实现后必须通过 =====
+import json  # noqa: E402
 import savever  # noqa: E402
 
 
